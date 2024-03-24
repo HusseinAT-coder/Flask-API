@@ -14,4 +14,4 @@ Migrate
 Run App
     - cd src
     - flask run
-        --debug
+        option : --debug
